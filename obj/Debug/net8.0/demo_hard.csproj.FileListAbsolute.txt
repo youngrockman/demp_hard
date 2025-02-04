@@ -1,0 +1,13 @@
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/bin/Debug/net8.0/demo_hard
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/bin/Debug/net8.0/demo_hard.dll
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/bin/Debug/net8.0/demo_hard.pdb
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.csproj.AssemblyReference.cache
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/Avalonia/resources
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.GeneratedMSBuildEditorConfig.editorconfig
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.AssemblyInfoInputs.cache
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.AssemblyInfo.cs
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.csproj.CoreCompileInputs.cache
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/Avalonia/demo_hard.dll
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/Avalonia/demo_hard.pdb
+/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/Debug/net8.0/refint/Avalonia/demo_hard.dll
