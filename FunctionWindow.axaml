@@ -9,7 +9,7 @@
     <DockPanel>
         <StackPanel DockPanel.Dock="Top" HorizontalAlignment="Center" Orientation="Horizontal" >
             <StackPanel>
-            <Image Source="{Binding Image}" Width="100" Height="100" Margin="5" HorizontalAlignment="Center"/>
+                <Image Source="{Binding Image}" Width="100" Height="100" Margin="5" HorizontalAlignment="Center"/>
             </StackPanel>
             <StackPanel>
                 <TextBlock x:Name="Fio">

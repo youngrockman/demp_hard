@@ -159,6 +159,3 @@
 /home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.csproj.Up2Date
 /home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.genruntimeconfig.cache
 /home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/ref/demo_hard.dll
-/home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.dll
-/home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/refint/demo_hard.dll
-/home/class_student/RiderProjects/demo_hard/demo_hard/obj/Debug/net8.0/demo_hard.pdb
