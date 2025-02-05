@@ -4,6 +4,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="demo_hard.MainWindow"
+        x:CompileBindings="True"
         Title="demo_hard">
     <DockPanel>
         <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" DockPanel.Dock="Top">

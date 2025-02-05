@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/demo_hard.csproj": {}
+    "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj": {}
   },
   "projects": {
-    "/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/demo_hard.csproj": {
+    "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/demo_hard.csproj",
+        "projectUniqueName": "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj",
         "projectName": "demo_hard",
-        "projectPath": "/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/demo_hard.csproj",
+        "projectPath": "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj",
         "packagesPath": "/home/class_student/.nuget/packages/",
-        "outputPath": "/home/class_student/Desktops/Desktop1/project/demo_hard/demo_hard/obj/",
+        "outputPath": "/home/class_student/RiderProjects/demo_hard/demo_hard/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/class_student/.nuget/NuGet/NuGet.Config"

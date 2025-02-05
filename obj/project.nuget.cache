@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgsSJG1z5rc=",
+  "dgSpecHash": "EVCAWmqygcE=",
   "success": true,
-  "projectFilePath": "/home/class_student/Desktop/project/demo_hard/demo_hard/demo_hard.csproj",
+  "projectFilePath": "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj",
   "expectedPackageFiles": [
     "/home/class_student/.nuget/packages/avalonia/11.2.1/avalonia.11.2.1.nupkg.sha512",
     "/home/class_student/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
