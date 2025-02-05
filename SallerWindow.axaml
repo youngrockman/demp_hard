@@ -5,5 +5,13 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="demo_hard.SallerWindow"
         Title="SallerWindow">
-    
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" DockPanel.Dock="Top">
+            <TextBlock Text="Добро пожаловать в окно создания заказа"/>
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Text="Номер заказа"/>
+            <TextBlock Text="Сделать штрих кода нада"/>
+        </StackPanel>
+    </DockPanel>
 </Window>
