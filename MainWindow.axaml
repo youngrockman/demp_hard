@@ -15,6 +15,7 @@
             <TextBox  x:Name="LoginBox" Margin="5" Width="200"/>
             <TextBlock Text="Введите пароль" HorizontalAlignment="Center" Margin="5"/>
             <TextBox  x:Name="PasswordBox" Margin="5" Width="200" PasswordChar="*"/>
+            <TextBlock Text="" x:Name="ErrorBlock" HorizontalAlignment="Center" Margin="5"/>
             <Button x:Name="ForPassword" Content="Показать пароль" Margin="5" Click="TogglePasswordVisibility" HorizontalAlignment="Center"/>
             <Button x:Name="Authorize" Content="Авторизироваться" Margin="5" Click="AuthorizeButton" HorizontalAlignment="Center"/>
         </StackPanel>

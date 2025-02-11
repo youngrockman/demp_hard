@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace demo_hard.Models;
+namespace demo_hard.Model;
 
 public partial class User2Context : DbContext
 {
@@ -57,6 +57,7 @@ public partial class User2Context : DbContext
             entity.Property(e => e.Password)
                 .HasColumnType("character varying")
                 .HasColumnName("password");
+            entity.Property(e => e.RoleId).HasColumnName("role_id");
         });
 
         modelBuilder.Entity<Employee>(entity =>
@@ -98,6 +99,9 @@ public partial class User2Context : DbContext
             entity.Property(e => e.EnterType)
                 .HasColumnType("character varying")
                 .HasColumnName("enter_type");
+            entity.Property(e => e.Login)
+                .HasColumnType("character varying")
+                .HasColumnName("login");
         });
 
         modelBuilder.Entity<Order>(entity =>

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj": {}
+    "C:\\Users\\IVAN\\RiderProjects\\demo_hard\\demo_hard.csproj": {}
   },
   "projects": {
-    "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj": {
+    "C:\\Users\\IVAN\\RiderProjects\\demo_hard\\demo_hard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj",
+        "projectUniqueName": "C:\\Users\\IVAN\\RiderProjects\\demo_hard\\demo_hard.csproj",
         "projectName": "demo_hard",
-        "projectPath": "/home/class_student/RiderProjects/demo_hard/demo_hard/demo_hard.csproj",
-        "packagesPath": "/home/class_student/.nuget/packages/",
-        "outputPath": "/home/class_student/RiderProjects/demo_hard/demo_hard/obj/",
+        "projectPath": "C:\\Users\\IVAN\\RiderProjects\\demo_hard\\demo_hard.csproj",
+        "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVAN\\RiderProjects\\demo_hard\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/class_student/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -94,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/class_student/.dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

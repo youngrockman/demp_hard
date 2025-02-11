@@ -15,18 +15,21 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = demo_hard
-build_property.ProjectDir = /home/class_student/RiderProjects/demo_hard/demo_hard/
+build_property.ProjectDir = C:\Users\IVAN\RiderProjects\demo_hard\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/home/class_student/RiderProjects/demo_hard/demo_hard/App.axaml]
+[C:/Users/IVAN/RiderProjects/demo_hard/AddClient.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/class_student/RiderProjects/demo_hard/demo_hard/FunctionWindow.axaml]
+[C:/Users/IVAN/RiderProjects/demo_hard/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/class_student/RiderProjects/demo_hard/demo_hard/MainWindow.axaml]
+[C:/Users/IVAN/RiderProjects/demo_hard/FunctionWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/class_student/RiderProjects/demo_hard/demo_hard/SallerWindow.axaml]
+[C:/Users/IVAN/RiderProjects/demo_hard/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/IVAN/RiderProjects/demo_hard/SallerWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

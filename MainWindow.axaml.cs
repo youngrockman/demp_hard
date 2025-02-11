@@ -2,8 +2,7 @@ using System;
 using System.Linq;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
-using demo_hard.Models;
-//using demo_hard.Models;
+using demo_hard.Model;
 using Tmds.DBus.Protocol;
 
 namespace demo_hard;
@@ -37,7 +36,7 @@ public partial class MainWindow : Window
         }
         else
         {
-           throw new Exception("Invalid email or password");
+            ErrorBlock.Text = "Неверный пароль";
         }
     }
 }

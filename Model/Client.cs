@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace demo_hard.Models;
+namespace demo_hard.Model;
 
 public partial class Client
 {
@@ -13,11 +13,13 @@ public partial class Client
 
     public string Passport { get; set; } = null!;
 
-    public DateOnly Birthday { get; set; }
+    public DateOnly? Birthday { get; set; }
 
     public string Address { get; set; } = null!;
 
     public string Email { get; set; } = null!;
 
     public string Password { get; set; } = null!;
+
+    public int RoleId { get; set; }
 }

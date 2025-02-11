@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace demo_hard.Models;
+namespace demo_hard.Model;
 
 public partial class LastEnter
 {
@@ -10,4 +10,6 @@ public partial class LastEnter
     public DateTime EnterDatetime { get; set; }
 
     public string EnterType { get; set; } = null!;
+
+    public string? Login { get; set; }
 }
