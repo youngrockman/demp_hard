@@ -54,6 +54,7 @@
             <Button Content="Назад" Click="Go_Back_Button" HorizontalAlignment="Center" Margin="5"/>
             <Button Content="Создать штрих код" HorizontalAlignment="Center" Margin="5"/>
             <Button Content="Добавить Пользователя" Click="AddUser_Button" HorizontalAlignment="Center" Margin="5"/>
+            <Button Content="Создать заказ" Click = "Create_Order" HorizontalAlignment="Center" Margin="5"/>
         </StackPanel>
     </DockPanel>
 </Window>

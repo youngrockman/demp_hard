@@ -72,7 +72,7 @@ public partial class SallerWindow : Window
         {
             SelectedServices.Add(selectedService);
             UpdateServiceList();
-        }
+        } 
     }
 
     private void UpdateServiceList()
@@ -111,5 +111,18 @@ public partial class SallerWindow : Window
     private void AddUser_Button(object? sender, RoutedEventArgs e)
     {
         new AddClient().ShowDialog(this);
+    }
+
+    private void Create_Order(object? sender, RoutedEventArgs e)
+    {
+        string orderNumber = CompleteBox.SelectedItem.ToString();  
+        Client selectedClient = Clients_ComboBox.SelectedItem as Client;
+        List<Service> selectedServices = new List<Service>(SelectedServices);
+
+        if (selectedClient != null && !string.IsNullOrEmpty(orderNumber) && selectedServices.Any())
+        {
+            new Order(orderNumber, selectedClient, selectedServices).ShowDialog(this);
+        }
+        
     }
 }

@@ -34,5 +34,8 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Users/IVAN/RiderProjects/demo_hard/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/IVAN/RiderProjects/demo_hard/Order.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/IVAN/RiderProjects/demo_hard/SallerWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
