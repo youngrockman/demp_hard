@@ -21,6 +21,7 @@ public partial class FunctionWindow : Window
     public FunctionWindow(Employee user)
     {
         InitializeComponent();
+        
         DataContext = new ImageEmployee()
         {
             EmployeId = user.EmployeId,
@@ -30,9 +31,11 @@ public partial class FunctionWindow : Window
             RoleId = user.RoleId,
             EmployePhoto = user.EmployePhoto
         };
+        
+        
         sessionStartTime = DateTime.Now;
         StartSessionTimer();
-
+        
     }
     
     public FunctionWindow()
@@ -79,10 +82,13 @@ public partial class FunctionWindow : Window
     {
         new SallerWindow().ShowDialog(this);    
     }
-
+    
+    
+    
     
     public class ImageEmployee: Employee
     {
+        public bool IsRole2 => RoleId == 2;
         Bitmap? Image
         {
             get

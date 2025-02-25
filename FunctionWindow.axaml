@@ -22,7 +22,7 @@
                 </TextBlock>
                 <Button Content="Назад" Click="Back_Button" Margin="5"/>
                 <Button Content="Создать заказ" Click="Next_Function_Button" Margin="5"/>
-                <Button Content="История входа" Click="History_Button" Margin="5"/>
+                <Button Content="История входа" Click="History_Button" Margin="5" IsVisible="{Binding IsRole2}"/>
                 <TextBlock x:Name="SessionTimer" FontSize="16" Foreground="Red" HorizontalAlignment="Center" Margin="10"/>
                 <TextBlock Text="" HorizontalAlignment="Center" Margin="10" x:Name="WarningBlock"/>
             </StackPanel>
